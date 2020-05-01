@@ -1,0 +1,83 @@
+D:\MATERI KULIAH\Semester 8\RPLBK\Project\ani - Copy\asp\C#\ContosoUniversity\bin\ContosoUniversity.dll.config
+D:\MATERI KULIAH\Semester 8\RPLBK\Project\ani - Copy\asp\C#\ContosoUniversity\bin\ContosoUniversity.dll
+D:\MATERI KULIAH\Semester 8\RPLBK\Project\ani - Copy\asp\C#\ContosoUniversity\bin\ContosoUniversity.pdb
+D:\MATERI KULIAH\Semester 8\RPLBK\Project\ani - Copy\asp\C#\ContosoUniversity\bin\Antlr3.Runtime.dll
+D:\MATERI KULIAH\Semester 8\RPLBK\Project\ani - Copy\asp\C#\ContosoUniversity\bin\EntityFramework.dll
+D:\MATERI KULIAH\Semester 8\RPLBK\Project\ani - Copy\asp\C#\ContosoUniversity\bin\EntityFramework.SqlServer.dll
+D:\MATERI KULIAH\Semester 8\RPLBK\Project\ani - Copy\asp\C#\ContosoUniversity\bin\itextsharp.dll
+D:\MATERI KULIAH\Semester 8\RPLBK\Project\ani - Copy\asp\C#\ContosoUniversity\bin\Microsoft.Web.Infrastructure.dll
+D:\MATERI KULIAH\Semester 8\RPLBK\Project\ani - Copy\asp\C#\ContosoUniversity\bin\Newtonsoft.Json.dll
+D:\MATERI KULIAH\Semester 8\RPLBK\Project\ani - Copy\asp\C#\ContosoUniversity\bin\PagedList.dll
+D:\MATERI KULIAH\Semester 8\RPLBK\Project\ani - Copy\asp\C#\ContosoUniversity\bin\PagedList.Mvc.dll
+D:\MATERI KULIAH\Semester 8\RPLBK\Project\ani - Copy\asp\C#\ContosoUniversity\bin\System.Web.Helpers.dll
+D:\MATERI KULIAH\Semester 8\RPLBK\Project\ani - Copy\asp\C#\ContosoUniversity\bin\System.Web.Mvc.dll
+D:\MATERI KULIAH\Semester 8\RPLBK\Project\ani - Copy\asp\C#\ContosoUniversity\bin\System.Web.Optimization.dll
+D:\MATERI KULIAH\Semester 8\RPLBK\Project\ani - Copy\asp\C#\ContosoUniversity\bin\System.Web.Razor.dll
+D:\MATERI KULIAH\Semester 8\RPLBK\Project\ani - Copy\asp\C#\ContosoUniversity\bin\System.Web.WebPages.Deployment.dll
+D:\MATERI KULIAH\Semester 8\RPLBK\Project\ani - Copy\asp\C#\ContosoUniversity\bin\System.Web.WebPages.dll
+D:\MATERI KULIAH\Semester 8\RPLBK\Project\ani - Copy\asp\C#\ContosoUniversity\bin\System.Web.WebPages.Razor.dll
+D:\MATERI KULIAH\Semester 8\RPLBK\Project\ani - Copy\asp\C#\ContosoUniversity\bin\WebGrease.dll
+D:\MATERI KULIAH\Semester 8\RPLBK\Project\ani - Copy\asp\C#\ContosoUniversity\bin\EntityFramework.xml
+D:\MATERI KULIAH\Semester 8\RPLBK\Project\ani - Copy\asp\C#\ContosoUniversity\bin\EntityFramework.SqlServer.xml
+D:\MATERI KULIAH\Semester 8\RPLBK\Project\ani - Copy\asp\C#\ContosoUniversity\bin\PagedList.xml
+D:\MATERI KULIAH\Semester 8\RPLBK\Project\ani - Copy\asp\C#\ContosoUniversity\bin\PagedList.Mvc.xml
+D:\MATERI KULIAH\Semester 8\RPLBK\Project\ani - Copy\asp\C#\ContosoUniversity\bin\System.Web.Helpers.xml
+D:\MATERI KULIAH\Semester 8\RPLBK\Project\ani - Copy\asp\C#\ContosoUniversity\bin\System.Web.Mvc.xml
+D:\MATERI KULIAH\Semester 8\RPLBK\Project\ani - Copy\asp\C#\ContosoUniversity\bin\System.Web.Optimization.xml
+D:\MATERI KULIAH\Semester 8\RPLBK\Project\ani - Copy\asp\C#\ContosoUniversity\bin\System.Web.Razor.xml
+D:\MATERI KULIAH\Semester 8\RPLBK\Project\ani - Copy\asp\C#\ContosoUniversity\bin\System.Web.WebPages.xml
+D:\MATERI KULIAH\Semester 8\RPLBK\Project\ani - Copy\asp\C#\ContosoUniversity\bin\System.Web.WebPages.Deployment.xml
+D:\MATERI KULIAH\Semester 8\RPLBK\Project\ani - Copy\asp\C#\ContosoUniversity\bin\System.Web.WebPages.Razor.xml
+D:\MATERI KULIAH\Semester 8\RPLBK\Project\ani - Copy\asp\C#\ContosoUniversity\bin\Antlr3.Runtime.pdb
+D:\MATERI KULIAH\Semester 8\RPLBK\Project\ani - Copy\asp\C#\ContosoUniversity\bin\Newtonsoft.Json.xml
+D:\MATERI KULIAH\Semester 8\RPLBK\Project\ani - Copy\asp\C#\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.InitialCreate.resources
+D:\MATERI KULIAH\Semester 8\RPLBK\Project\ani - Copy\asp\C#\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.MaxLengthOnNames.resources
+D:\MATERI KULIAH\Semester 8\RPLBK\Project\ani - Copy\asp\C#\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.ComplexDataModel.resources
+D:\MATERI KULIAH\Semester 8\RPLBK\Project\ani - Copy\asp\C#\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.DepartmentSP.resources
+D:\MATERI KULIAH\Semester 8\RPLBK\Project\ani - Copy\asp\C#\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.RowVersion.resources
+D:\MATERI KULIAH\Semester 8\RPLBK\Project\ani - Copy\asp\C#\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.Inheritance.resources
+D:\MATERI KULIAH\Semester 8\RPLBK\Project\ani - Copy\asp\C#\ContosoUniversity\obj\Debug\SistemPengelolaanNilaiSiswa.csproj.GenerateResource.Cache
+D:\MATERI KULIAH\Semester 8\RPLBK\Project\ani - Copy\asp\C#\ContosoUniversity\obj\Debug\ContosoUniversity.dll
+D:\MATERI KULIAH\Semester 8\RPLBK\Project\ani - Copy\asp\C#\ContosoUniversity\obj\Debug\ContosoUniversity.pdb
+C:\Users\Oriani Sihaloho\Desktop\ass - Copy - Copy\ani - Copy\asp\C#\ContosoUniversity\bin\ContosoUniversity.dll.config
+C:\Users\Oriani Sihaloho\Desktop\ass - Copy - Copy\ani - Copy\asp\C#\ContosoUniversity\bin\ContosoUniversity.dll
+C:\Users\Oriani Sihaloho\Desktop\ass - Copy - Copy\ani - Copy\asp\C#\ContosoUniversity\bin\ContosoUniversity.pdb
+C:\Users\Oriani Sihaloho\Desktop\ass - Copy - Copy\ani - Copy\asp\C#\ContosoUniversity\bin\Antlr3.Runtime.dll
+C:\Users\Oriani Sihaloho\Desktop\ass - Copy - Copy\ani - Copy\asp\C#\ContosoUniversity\bin\EntityFramework.dll
+C:\Users\Oriani Sihaloho\Desktop\ass - Copy - Copy\ani - Copy\asp\C#\ContosoUniversity\bin\EntityFramework.SqlServer.dll
+C:\Users\Oriani Sihaloho\Desktop\ass - Copy - Copy\ani - Copy\asp\C#\ContosoUniversity\bin\itextsharp.dll
+C:\Users\Oriani Sihaloho\Desktop\ass - Copy - Copy\ani - Copy\asp\C#\ContosoUniversity\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Oriani Sihaloho\Desktop\ass - Copy - Copy\ani - Copy\asp\C#\ContosoUniversity\bin\Newtonsoft.Json.dll
+C:\Users\Oriani Sihaloho\Desktop\ass - Copy - Copy\ani - Copy\asp\C#\ContosoUniversity\bin\PagedList.dll
+C:\Users\Oriani Sihaloho\Desktop\ass - Copy - Copy\ani - Copy\asp\C#\ContosoUniversity\bin\PagedList.Mvc.dll
+C:\Users\Oriani Sihaloho\Desktop\ass - Copy - Copy\ani - Copy\asp\C#\ContosoUniversity\bin\System.Web.Helpers.dll
+C:\Users\Oriani Sihaloho\Desktop\ass - Copy - Copy\ani - Copy\asp\C#\ContosoUniversity\bin\System.Web.Mvc.dll
+C:\Users\Oriani Sihaloho\Desktop\ass - Copy - Copy\ani - Copy\asp\C#\ContosoUniversity\bin\System.Web.Optimization.dll
+C:\Users\Oriani Sihaloho\Desktop\ass - Copy - Copy\ani - Copy\asp\C#\ContosoUniversity\bin\System.Web.Razor.dll
+C:\Users\Oriani Sihaloho\Desktop\ass - Copy - Copy\ani - Copy\asp\C#\ContosoUniversity\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Oriani Sihaloho\Desktop\ass - Copy - Copy\ani - Copy\asp\C#\ContosoUniversity\bin\System.Web.WebPages.dll
+C:\Users\Oriani Sihaloho\Desktop\ass - Copy - Copy\ani - Copy\asp\C#\ContosoUniversity\bin\System.Web.WebPages.Razor.dll
+C:\Users\Oriani Sihaloho\Desktop\ass - Copy - Copy\ani - Copy\asp\C#\ContosoUniversity\bin\WebGrease.dll
+C:\Users\Oriani Sihaloho\Desktop\ass - Copy - Copy\ani - Copy\asp\C#\ContosoUniversity\bin\EntityFramework.xml
+C:\Users\Oriani Sihaloho\Desktop\ass - Copy - Copy\ani - Copy\asp\C#\ContosoUniversity\bin\EntityFramework.SqlServer.xml
+C:\Users\Oriani Sihaloho\Desktop\ass - Copy - Copy\ani - Copy\asp\C#\ContosoUniversity\bin\PagedList.xml
+C:\Users\Oriani Sihaloho\Desktop\ass - Copy - Copy\ani - Copy\asp\C#\ContosoUniversity\bin\PagedList.Mvc.xml
+C:\Users\Oriani Sihaloho\Desktop\ass - Copy - Copy\ani - Copy\asp\C#\ContosoUniversity\bin\System.Web.Helpers.xml
+C:\Users\Oriani Sihaloho\Desktop\ass - Copy - Copy\ani - Copy\asp\C#\ContosoUniversity\bin\System.Web.Mvc.xml
+C:\Users\Oriani Sihaloho\Desktop\ass - Copy - Copy\ani - Copy\asp\C#\ContosoUniversity\bin\System.Web.Optimization.xml
+C:\Users\Oriani Sihaloho\Desktop\ass - Copy - Copy\ani - Copy\asp\C#\ContosoUniversity\bin\System.Web.Razor.xml
+C:\Users\Oriani Sihaloho\Desktop\ass - Copy - Copy\ani - Copy\asp\C#\ContosoUniversity\bin\System.Web.WebPages.xml
+C:\Users\Oriani Sihaloho\Desktop\ass - Copy - Copy\ani - Copy\asp\C#\ContosoUniversity\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Oriani Sihaloho\Desktop\ass - Copy - Copy\ani - Copy\asp\C#\ContosoUniversity\bin\System.Web.WebPages.Razor.xml
+C:\Users\Oriani Sihaloho\Desktop\ass - Copy - Copy\ani - Copy\asp\C#\ContosoUniversity\bin\Antlr3.Runtime.pdb
+C:\Users\Oriani Sihaloho\Desktop\ass - Copy - Copy\ani - Copy\asp\C#\ContosoUniversity\bin\Newtonsoft.Json.xml
+C:\Users\Oriani Sihaloho\Desktop\ass - Copy - Copy\ani - Copy\asp\C#\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.InitialCreate.resources
+C:\Users\Oriani Sihaloho\Desktop\ass - Copy - Copy\ani - Copy\asp\C#\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.MaxLengthOnNames.resources
+C:\Users\Oriani Sihaloho\Desktop\ass - Copy - Copy\ani - Copy\asp\C#\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.ComplexDataModel.resources
+C:\Users\Oriani Sihaloho\Desktop\ass - Copy - Copy\ani - Copy\asp\C#\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.DepartmentSP.resources
+C:\Users\Oriani Sihaloho\Desktop\ass - Copy - Copy\ani - Copy\asp\C#\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.RowVersion.resources
+C:\Users\Oriani Sihaloho\Desktop\ass - Copy - Copy\ani - Copy\asp\C#\ContosoUniversity\obj\Debug\ContosoUniversity.Migrations.Inheritance.resources
+C:\Users\Oriani Sihaloho\Desktop\ass - Copy - Copy\ani - Copy\asp\C#\ContosoUniversity\obj\Debug\SistemPengelolaanNilaiSiswa.csproj.GenerateResource.Cache
+C:\Users\Oriani Sihaloho\Desktop\ass - Copy - Copy\ani - Copy\asp\C#\ContosoUniversity\obj\Debug\ContosoUniversity.dll
+C:\Users\Oriani Sihaloho\Desktop\ass - Copy - Copy\ani - Copy\asp\C#\ContosoUniversity\obj\Debug\ContosoUniversity.pdb
+C:\Users\Oriani Sihaloho\Desktop\ass - Copy - Copy\ani - Copy\asp\C#\ContosoUniversity\obj\Debug\SistemPengelolaanNilaiSiswa.csprojResolveAssemblyReference.cache
